@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "20303301140",
+    "project_id": "class-room-clone-c494c",
+    "storage_bucket": "class-room-clone-c494c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20303301140:android:12607980b6279bf144b501",
+        "android_client_info": {
+          "package_name": "com.apexhotal.class.room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20303301140-glhf4vl2thuo0ctk4bjdn7so3o9fv97g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATjRtOo6qpHgUFyNp97n09_oljT2CXcRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20303301140-4v6183t295nua8gelrc7er8mfjhs6e12.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "20303301140-lp8c9bnhis6vcruisa2lis2h35nsk3l9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.randomdog"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
